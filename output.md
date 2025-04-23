@@ -4,16 +4,16 @@ Below are the screenshots demonstrating the functionality of the RSA implementat
 
 ## 1. Application Startup
 
-![Startup Screenshot](screenshots/startup.png)
+![Startup Screenshot](screenshots/startup.PNG)
 
 ## 2. Message Encryption
 
-![Encryption Screenshot](screenshots/encryption.png)
+![Encryption Screenshot](screenshots/encryption.PNG)
 
 ## 3. Message Decryption
 
-![Decryption Screenshot](screenshots/decryption.png)
+![Decryption Screenshot](screenshots/decryption.PNG)
 
 ## 4. RSA Key Details Popup
 
-![Key Details Screenshot](screenshots/key_details.png)
+![Key Details Screenshot](screenshots/key_details.PNG)
